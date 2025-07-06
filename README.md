@@ -28,3 +28,6 @@ This project scrapes player information from Transfermarkt's Premier league mark
 '''bash
 pip install -r requirments.txt
 python transfermarkt_scraper.ipynb
+
+Made with ♥ by [Piyush Sharma]
+Twitter: @Piyushsharma_37
