@@ -22,12 +22,13 @@ This project scrapes player information from Transfermarkt's Premier league mark
 -Requests
 
 ## Sample Analysis
-
+Check my analysis.IPYNB for the visualizations, and you can even create your visualizations using the dataset to make it more insightful for yourself.
 
 ## How to Run
 '''bash
 pip install -r requirments.txt
 python transfermarkt_scraper.ipynb
 
+## Contact
 Made with ♥ by [Piyush Sharma]
 Twitter: @Piyushsharma_37
